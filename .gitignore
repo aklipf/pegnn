@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+data
+runs*
+*.png
+*.gif
+*.txt
+jobs
